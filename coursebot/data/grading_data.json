@@ -1,0 +1,619 @@
+{
+  "CE214": {
+    "Analysis": "This course has a history of a high fail rate.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "F 5-10%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "F 5-10%"
+      }
+    ]
+  },
+  "CE252": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE272": {
+    "Analysis": "Grading appears average, but had some E grades in 2023-24/II.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "E 1-5%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE332": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE334": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE341": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "B < 20%"
+      }
+    ]
+  },
+  "CE362": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE372": {
+    "Analysis": "This course has a history of a high fail rate.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "F 5-10%"
+      },
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "E 10-15%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "B < 20%"
+      },
+      {
+        "Semester": "2022-23/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE382": {
+    "Analysis": "This course has a history of a high fail rate.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "E 5-10%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE412": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "A/A* < 20%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "B < 20%"
+      }
+    ]
+  },
+  "CE432": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ < 20%"
+      }
+    ]
+  },
+  "CE441": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* < 20%"
+      },
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ 20-40%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "A/A* < 20%"
+      },
+      {
+        "Semester": "2022-23/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE462": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ < 20%"
+      }
+    ]
+  },
+  "CE491": {
+    "Analysis": "Very generous grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* > 80%"
+      },
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "A/A* 40-60%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "B < 20%"
+      },
+      {
+        "Semester": "2022-23/I",
+        "GradeBracket": "A/A* 60-80%"
+      }
+    ]
+  },
+  "CE492": {
+    "Analysis": "Very generous grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* 60-80%"
+      },
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ < 20%"
+      }
+    ]
+  },
+  "CE493": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE612": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE613": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE622": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ < 20%"
+      }
+    ]
+  },
+  "CE623": {
+    "Analysis": "Very generous grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* > 80%"
+      },
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ < 20%"
+      }
+    ]
+  },
+  "CE629": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ 20-40%"
+      }
+    ]
+  },
+  "CE632": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ < 20%"
+      }
+    ]
+  },
+  "CE634": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ 20-40%"
+      }
+    ]
+  },
+  "CE635": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "A/A* 20-40%"
+      }
+    ]
+  },
+  "CE639": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE642": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE653": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE654": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* < 20%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "B < 20%"
+      },
+      {
+        "Semester": "2022-23/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE656": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ 20-40%"
+      }
+    ]
+  },
+  "CE657": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ 40-60%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "B 20-40%"
+      }
+    ]
+  },
+  "CE663": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ 20-40%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "B < 20%"
+      }
+    ]
+  },
+  "CE668": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "A/A* 20-40%"
+      }
+    ]
+  },
+  "CE669": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B < 20%"
+      }
+    ]
+  },
+  "CE672": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE673": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ 20-40%"
+      }
+    ]
+  },
+  "CE674": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ 40-60%"
+      }
+    ]
+  },
+  "CE675": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ < 20%"
+      }
+    ]
+  },
+  "CE676": {
+    "Analysis": "Generous grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "A/A* 40-60%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "B < 20%"
+      }
+    ]
+  },
+  "CE677": {
+    "Analysis": "Very generous grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* > 80%"
+      },
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ < 20%"
+      }
+    ]
+  },
+  "CE685": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "A/A* 20-40%"
+      }
+    ]
+  },
+  "CE687": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ 20-40%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "B < 20%"
+      },
+      {
+        "Semester": "2022-23/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE698": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE699": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE704": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE718": {
+    "Analysis": "Generous grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "A/A* 40-60%"
+      }
+    ]
+  },
+  "CE727": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE760": {
+    "Analysis": "Generous grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "B+ > 80%"
+      },
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ < 20%"
+      }
+    ]
+  },
+  "CE761": {
+    "Analysis": "Generous grading.",
+    "History": [
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "A/A* 20-40%"
+      }
+    ]
+  },
+  "CE764": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE765": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "A/A* 20-40%"
+      }
+    ]
+  },
+  "CE768": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "B < 20%"
+      }
+    ]
+  },
+  "CE771": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ 20-40%"
+      }
+    ]
+  },
+  "CE780": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B 20-40%"
+      }
+    ]
+  },
+  "CE781": {
+    "Analysis": "Generous grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "A/A* 40-60%"
+      }
+    ]
+  },
+  "CE783": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE784": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE785": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "B+ < 20%"
+      }
+    ]
+  },
+  "CE794": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE797": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE798": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE799": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE888": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE898": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "CE899": {
+    "Analysis": "Appears to have average grading.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "A/A* < 20%"
+      }
+    ]
+  },
+  "CE999": {
+    "Analysis": "No specific grading data found in recent annexures.",
+    "History": []
+  },
+  "ESO202": {
+    "Analysis": "This course has a history of a high fail rate.",
+    "History": [
+      {
+        "Semester": "2024-25/I",
+        "GradeBracket": "F 10-15%"
+      },
+      {
+        "Semester": "2023-24/II",
+        "GradeBracket": "F 1-5%"
+      },
+      {
+        "Semester": "2022-23/II",
+        "GradeBracket": "F 1-5%"
+      },
+      {
+        "Semester": "2022-23/I",
+        "GradeBracket": "E 10-15%"
+      }
+    ]
+  }
+}

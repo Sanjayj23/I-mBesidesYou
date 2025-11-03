@@ -1,0 +1,104 @@
+{"prompt": "Show me all courses in the Civil Engineering department.", "completion": "{\"Branch\": \"CE\"}"}
+{"prompt": "List all CE courses.", "completion": "{\"Branch\": \"CE\"}"}
+{"prompt": "Just show me everything from Civil.", "completion": "{\"Branch\": \"CE\"}"}
+{"prompt": "What courses does SUDHIR MISRA teach?", "completion": "{\"Instructor_contains\": \"SUDHIR MISRA\"}"}
+{"prompt": "Find me a class taught by PURNENDU BOSE.", "completion": "{\"Instructor_contains\": \"PURNENDU BOSE\"}"}
+{"prompt": "Are there any courses with 'Soil' in the name?", "completion": "{\"CourseName_contains\": \"SOIL\"}"}
+{"prompt": "I want to take a class on 'Structures'.", "completion": "{\"CourseName_contains\": \"STRUCTURES\"}"}
+{"prompt": "What courses are taught by Gaurav Tiwari?", "completion": "{\"Instructor_contains\": \"Gaurav Tiwari\"}"}
+{"prompt": "Find all 9-unit courses.", "completion": "{\"Units_contains\": \"(9)\"}"}
+{"prompt": "List all 11-unit courses.", "completion": "{\"Units_contains\": \"(11)\"}"}
+{"prompt": "What 5-unit courses are there?", "completion": "{\"Units_contains\": \"(5)\"}"}
+{"prompt": "Show me all courses that are 'DC/REGULAR'.", "completion": "{\"CourseType\": \"DC/REGULAR\"}"}
+{"prompt": "What courses are 'FIRST-HALF'?", "completion": "{\"CourseType_contains\": \"FIRST-HALF\"}"}
+{"prompt": "Show me all 'SECOND-HALF' courses.", "completion": "{\"CourseType_contains\": \"SECOND-HALF\"}"}
+{"prompt": "List all courses about 'TRANSPORTATION'.", "completion": "{\"CourseName_contains\": \"TRANSPORTATION\"}"}
+{"prompt": "What 'HYDRAULICS' courses are there?", "completion": "{\"CourseName_contains\": \"HYDRAULICS\"}"}
+{"prompt": "Find all courses taught by 'Abhijith G R'.", "completion": "{\"Instructor_contains\": \"Abhijith G R\"}"}
+{"prompt": "List all courses by 'DURGESH C RAI'.", "completion": "{\"Instructor_contains\": \"DURGESH C RAI\"}"}
+{"prompt": "What classes are taught by 'ONKAR DIKSHIT'?", "completion": "{\"Instructor_contains\": \"ONKAR DIKSHIT\"}"}
+{"prompt": "Show me courses with 'CONSTRUCTION' in the title.", "completion": "{\"CourseName_contains\": \"CONSTRUCTION\"}"}
+{"prompt": "Find me an easy course.", "completion": "{\"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "What are the hardest courses?", "completion": "{\"sortBy\": \"AGP\", \"sortOrder\": \"asc\"}"}
+{"prompt": "Show me all courses that are a 'Tough Course'.", "completion": "{\"Analysis\": \"Tough Course\"}"}
+{"prompt": "What courses have 'Generous Grading'?", "completion": "{\"Analysis\": \"Generous Grading\"}"}
+{"prompt": "List all 'Average Difficulty' courses.", "completion": "{\"Analysis\": \"Average Difficulty\"}"}
+{"prompt": "I want to see all the 'Moderate Challenge' courses.", "completion": "{\"Analysis\": \"Moderate Challenge\"}"}
+{"prompt": "Find courses with an AGP over 8.5.", "completion": "{\"AGP_gte\": 8.5}"}
+{"prompt": "I need a course with an AGP of 9.0 or higher.", "completion": "{\"AGP_gte\": 9.0}"}
+{"prompt": "Show me difficult courses with an AGP below 7.0.", "completion": "{\"AGP_lte\": 7.0}"}
+{"prompt": "What are the easiest courses available?", "completion": "{\"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "List courses with an AGP below 6.5.", "completion": "{\"AGP_lte\": 6.5}"}
+{"prompt": "Find all courses that are 'Easy (Seminar Course)'.", "completion": "{\"Analysis\": \"Easy (Seminar Course)\"}"}
+{"prompt": "What courses have 'Fair Grading'?", "completion": "{\"Analysis\": \"Fair Grading\"}"}
+{"prompt": "List all courses with an AGP between 7.0 and 8.0.", "completion": "{\"AGP_gte\": 7.0, \"AGP_lte\": 8.0}"}
+{"prompt": "Show me courses with AGP > 8.2", "completion": "{\"AGP_gte\": 8.2}"}
+{"prompt": "Find a class with a practical on Monday.", "completion": "{\"PracticalSchedule_contains\": \"M\"}"}
+{"prompt": "What courses have a tutorial on Wednesday?", "completion": "{\"TutorialSchedule_contains\": \"W\"}"}
+{"prompt": "Show me all courses with a lecture on Friday.", "completion": "{\"LectureSchedule_contains\": \"F\"}"}
+{"prompt": "Find me a class that has practicals.", "completion": "{\"PracticalSchedule_not\": \"\"}"}
+{"prompt": "Do any courses have tutorials?", "completion": "{\"TutorialSchedule_not\": \"\"}"}
+{"prompt": "I need a morning class.", "completion": "{\"TimeOfDay\": \"Morning\"}"}
+{"prompt": "What classes are in the afternoon?", "completion": "{\"TimeOfDay\": \"Afternoon\"}"}
+{"prompt": "Are there any evening classes?", "completion": "{\"TimeOfDay\": \"Evening\"}"}
+{"prompt": "Find a course that meets on Tuesday.", "completion": "{\"LectureSchedule_contains\": \"T\"}"}
+{"prompt": "What classes are on Mondays?", "completion": "{\"LectureSchedule_contains\": \"M\"}"}
+{"prompt": "List all courses with a practical on Thursday.", "completion": "{\"PracticalSchedule_contains\": \"Th\"}"}
+{"prompt": "I need a class on Monday, Wednesday, and Friday.", "completion": "{\"LectureSchedule_contains\": \"M\", \"LectureSchedule_contains\": \"W\", \"LectureSchedule_contains\": \"F\"}"}
+{"prompt": "What are the T/Th classes?", "completion": "{\"LectureSchedule_contains\": \"T\", \"LectureSchedule_contains\": \"Th\"}"}
+{"prompt": "Show me all MWF courses.", "completion": "{\"LectureSchedule_contains\": \"M\", \"LectureSchedule_contains\": \"W\", \"LectureSchedule_contains\": \"F\"}"}
+{"prompt": "Find me the easiest CE course.", "completion": "{\"Branch\": \"CE\", \"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "What is the hardest course in the Civil department?", "completion": "{\"Branch\": \"CE\", \"sortBy\": \"AGP\", \"sortOrder\": \"asc\"}"}
+{"prompt": "Show me an easy class in the morning.", "completion": "{\"TimeOfDay\": \"Morning\", \"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "I need an afternoon class that isn't too hard.", "completion": "{\"TimeOfDay\": \"Afternoon\", \"AGP_gte\": 7.5}"}
+{"prompt": "Find me an easy 9-unit course.", "completion": "{\"Units_contains\": \"(9)\", \"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "What is the hardest 11-unit course in CE?", "completion": "{\"Branch\": \"CE\", \"Units_contains\": \"(11)\", \"sortBy\": \"AGP\", \"sortOrder\": \"asc\"}"}
+{"prompt": "Show me courses by 'ARGHYA DAS' that are in the afternoon.", "completion": "{\"Instructor_contains\": \"ARGHYA DAS\", \"TimeOfDay\": \"Afternoon\"}"}
+{"prompt": "List 'Generous Grading' courses that have a practical.", "completion": "{\"Analysis\": \"Generous Grading\", \"PracticalSchedule_not\": \"\"}"}
+{"prompt": "What's an easy course on a Tuesday?", "completion": "{\"LectureSchedule_contains\": \"T\", \"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "Find a tough course taught by 'SUDHIR MISRA'.", "completion": "{\"Instructor_contains\": \"SUDHIR MISRA\", \"sortBy\": \"AGP\", \"sortOrder\": \"asc\"}"}
+{"prompt": "Find me a CE course in the morning that is generously graded.", "completion": "{\"Branch\": \"CE\", \"TimeOfDay\": \"Morning\", \"Analysis\": \"Generous Grading\"}"}
+{"prompt": "I need an afternoon class with a practical on Monday.", "completion": "{\"TimeOfDay\": \"Afternoon\", \"PracticalSchedule_contains\": \"M\"}"}
+{"prompt": "Show me 9-unit courses that are not 'Tough Course'.", "completion": "{\"Units_contains\": \"(9)\", \"Analysis_not\": \"Tough Course\"}"}
+{"prompt": "What's the easiest class with 'SOIL' in the name?", "completion": "{\"CourseName_contains\": \"SOIL\", \"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "List all 'DC/SECOND-HALF' courses.", "completion": "{\"CourseType\": \"DC/SECOND-HALF\"}"}
+{"prompt": "Show me courses with a tutorial on Monday morning.", "completion": "{\"TutorialSchedule_contains\": \"M\", \"TimeOfDay\": \"Morning\"}"}
+{"prompt": "What's an easy 11-unit course?", "completion": "{\"Units_contains\": \"(11)\", \"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "Find me a 'DE, PRF,OE/ REGULAR' course.", "completion": "{\"CourseType\": \"DE, PRF,OE/ REGULAR\"}"}
+{"prompt": "List all courses by 'Balaji Devaraju'.", "completion": "{\"Instructor_contains\": \"Balaji Devaraju\"}"}
+{"prompt": "What are the 'UGP-1/REGULAR' courses?", "completion": "{\"CourseType\": \"UGP-1/REGULAR\"}"}
+{"prompt": "Find me a class that meets at 10:00.", "completion": "{\"LectureSchedule_contains\": \"10:00\"}"}
+{"prompt": "Are there any classes at 8:00?", "completion": "{\"LectureSchedule_contains\": \"08:00\"}"}
+{"prompt": "Find me an easy 9-unit course in the morning.", "completion": "{\"Units_contains\": \"(9)\", \"TimeOfDay\": \"Morning\", \"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "What's the hardest class on a Friday?", "completion": "{\"LectureSchedule_contains\": \"F\", \"sortBy\": \"AGP\", \"sortOrder\": \"asc\"}"}
+{"prompt": "Show me all courses by 'SUDHIR MISRA' or 'Chirag Kothari'.", "completion": "{\"Instructor_contains\": [\"SUDHIR MISRA\", \"Chirag Kothari\"]}"}
+{"prompt": "I need a class about 'STRUCTURES' or 'DYNAMICS'.", "completion": "{\"CourseName_contains\": [\"STRUCTURES\", \"DYNAMICS\"]}"}
+{"prompt": "Find me a CE course with an AGP over 8.0 that has a practical.", "completion": "{\"Branch\": \"CE\", \"AGP_gte\": 8.0, \"PracticalSchedule_not\": \"\"}"}
+{"prompt": "What are the 'Easy (Project/Camp)' courses?", "completion": "{\"Analysis\": \"Easy (Project/Camp)\"}"}
+{"prompt": "List all courses with 'MANAGEMENT' in the name.", "completion": "{\"CourseName_contains\": \"MANAGEMENT\"}"}
+{"prompt": "Show me courses taught by 'NIHAR RANJAN PATRA'.", "completion": "{\"Instructor_contains\": \"NIHAR RANJAN PATRA\"}"}
+{"prompt": "I need a course on Tuesday and Friday afternoons.", "completion": "{\"LectureSchedule_contains\": \"T\", \"LectureSchedule_contains\": \"F\", \"TimeOfDay\": \"Afternoon\"}"}
+{"prompt": "What's the easiest class taught by 'Balaji Devaraju'?", "completion": "{\"Instructor_contains\": \"Balaji Devaraju\", \"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "Find me an 11-unit course with a practical.", "completion": "{\"Units_contains\": \"(11)\", \"PracticalSchedule_not\": \"\"}"}
+{"prompt": "Show me all courses that are 'Tough Course' and meet in the morning.", "completion": "{\"Analysis\": \"Tough Course\", \"TimeOfDay\": \"Morning\"}"}
+{"prompt": "List all 8-unit courses.", "completion": "{\"Units_contains\": \"(8)\"}"}
+{"prompt": "What are the 'DE, PRF, OE,Minor/ REGULAR' courses?", "completion": "{\"CourseType\": \"DE, PRF, OE,Minor/ REGULAR\"}"}
+{"prompt": "Find a class with a practical on Tuesday.", "completion": "{\"PracticalSchedule_contains\": \"T\"}"}
+{"prompt": "Show me all courses by 'ARGHYA DAS'.", "completion": "{\"Instructor_contains\": \"ARGHYA DAS\"}"}
+{"prompt": "What courses are on 'GEOINFORMATICS'?", "completion": "{\"CourseName_contains\": \"GEOINFORMATICS\"}"}
+{"prompt": "Find me an easy class that meets at 9:00.", "completion": "{\"LectureSchedule_contains\": \"09:00\", \"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "List all 'MOD/FIRST-HALF' courses.", "completion": "{\"CourseType_contains\": \"MOD/FIRST-HALF\"}"}
+{"prompt": "What are the 'PG-4' slot courses?", "completion": "{\"SlotName\": \"PG-4\"}"}
+{"prompt": "Show me courses in the 'PG-3' slot.", "completion": "{\"SlotName\": \"PG-3\"}"}
+{"prompt": "I need a 'DE-1' slot course.", "completion": "{\"SlotName\": \"DE-1\"}"}
+{"prompt": "What courses are taught by 'ANUBHA GOEL'?", "completion": "{\"Instructor_contains\": \"ANUBHA GOEL\"}"}
+{"prompt": "Find a tough course in the 'DE-2' slot.", "completion": "{\"SlotName\": \"DE-2\", \"sortBy\": \"AGP\", \"sortOrder\": \"asc\"}"}
+{"prompt": "List all 9-unit courses with generous grading.", "completion": "{\"Units_contains\": \"(9)\", \"Analysis\": \"Generous Grading\"}"}
+{"prompt": "What's an easy class on Wednesday?", "completion": "{\"LectureSchedule_contains\": \"W\", \"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "Show me all courses that have 'RESEARCH' in the name.", "completion": "{\"CourseName_contains\": \"RESEARCH\"}"}
+{"prompt": "Find me a 'Thesis' course.", "completion": "{\"CourseType_contains\": \"Thesis\"}"}
+{"prompt": "What's the easiest 11-unit CE course?", "completion": "{\"Branch\": \"CE\", \"Units_contains\": \"(11)\", \"sortBy\": \"AGP\", \"sortOrder\": \"desc\"}"}
+{"prompt": "List all 'Average Difficulty' courses in the afternoon.", "completion": "{\"Analysis\": \"Average Difficulty\", \"TimeOfDay\": \"Afternoon\"}"}
+{"prompt": "Find me a class with a practical on Friday.", "completion": "{\"PracticalSchedule_contains\": \"F\"}"}
+{"prompt": "Show me courses taught by 'TARUN GUPTA'.", "completion": "{\"Instructor_contains\": \"TARUN GUPTA\"}"}
+{"prompt": "What are the 'PG-8' slot courses?", "completion": "{\"SlotName\": \"PG-8\"}"}

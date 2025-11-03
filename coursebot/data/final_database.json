@@ -1,0 +1,1384 @@
+[
+  {
+    "SN": 63,
+    "Branch": "CE",
+    "CourseName": "ENVIRONMENTAL QUALITY AND PROCESSES(CE214)",
+    "SlotName": "4-1",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DC/REGULAR",
+    "Instructor": "Abhijith G R(I), PURNENDU BOSE (0)",
+    "InstructorEmail": "abhijith@iitk.ac.in (I), pbose@iitk.ac.in (0)",
+    "LectureSchedule": "M (L02) W (L02) F (L02) 10:00-11:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "This course has a history of a high fail rate.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "F 5-10%"
+        },
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "F 5-10%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 64,
+    "Branch": "CE",
+    "CourseName": "SOIL MECHANICS(CE252)",
+    "SlotName": "SLOT-4-2",
+    "Units": "3-0-2-0(11)",
+    "CourseType": "DC/REGULAR",
+    "Instructor": "ARGHYA DAS(I), Jagdish Sahoo(0)",
+    "InstructorEmail": "arghya@iitk.ac.in (I), jpsahoo@iitk.ac.in (0)",
+    "LectureSchedule": "W (L07) Th (L07) F (L07) 11:00-12:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "MTTh 14:00-17:00",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 65,
+    "Branch": "CE",
+    "CourseName": "STRUCTURAL ANALYSIS (CE272)",
+    "SlotName": "4-2-1",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DC/REGULAR",
+    "Instructor": "SUPARNO MUKHOPADHYAY (1)",
+    "InstructorEmail": "suparno@iitk.ac.in (1)",
+    "LectureSchedule": "M (L02) 11:00-12:00,T (L02) F (LO2) 12:00-13:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Grading appears average, but had some E grades in 2023-24/II.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "E 1-5%"
+        },
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 66,
+    "Branch": "CE",
+    "CourseName": "SURVEY CAMP(CE332)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(4)",
+    "CourseType": "UGP-1/REGULAR",
+    "Instructor": "Balaji Devaraju(1)",
+    "InstructorEmail": "dbalaji@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 67,
+    "Branch": "CE",
+    "CourseName": "MODERN METHODS IN GEOINFORMATICS(CE334)",
+    "SlotName": "DE-10",
+    "Units": "2-0-2-0(8)",
+    "CourseType": "DE, PRF,OE/ REGULAR",
+    "Instructor": "Balaji Devaraju(1), BHARAT LOHANI (O)",
+    "InstructorEmail": "dbalaji@iitk.ac.in (1), blohani@iitk.ac.in (0)",
+    "LectureSchedule": "Th (T206) F (T206) 10:00-11:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "W (T212) 16:00-18:00",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 68,
+    "Branch": "CE",
+    "CourseName": "CIVIL ENGINEERING COMMUNICATION SKILLS(CE341)",
+    "SlotName": "SLOT-7",
+    "Units": "0-0-0-2(2)",
+    "CourseType": "DC/REGULAR",
+    "Instructor": "SUDHIR MISRA(I), Abhijith G R(O)",
+    "InstructorEmail": "sud@iitk.ac.in (1), abhijith@iitk.ac.in (0)",
+    "LectureSchedule": "Th 09:00-11:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "B < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 69,
+    "Branch": "CE",
+    "CourseName": "ENGINEERING HYDRAULICS(CE362)",
+    "SlotName": "CORE 12",
+    "Units": "2-1-0-0(8)",
+    "CourseType": "DE, PRF,OE/ REGULAR",
+    "Instructor": "SAUMYEN GUHA (I), SHIVAM TRIPATHI(O)",
+    "InstructorEmail": "sguha@iitk.ac.in (I), shiva@iitk.ac.in (0)",
+    "LectureSchedule": "T (L17) W (L17) 12:00-13:00",
+    "TutorialSchedule": "Th (L17) 09:00-10:00",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 70,
+    "Branch": "CE",
+    "CourseName": "DESIGN OF STEEL STRUCTURES(CE372)",
+    "SlotName": "DE-5",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF,OE/ REGULAR",
+    "Instructor": "VINAY KUMAR GUPTA (1)",
+    "InstructorEmail": "vinaykg@iitk.ac.in (1)",
+    "LectureSchedule": "T (T205) F (T205) 14:00-15:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "This course has a history of a high fail rate.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "F 5-10%"
+        },
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "E 10-15%"
+        },
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "B < 20%"
+        },
+        {
+          "Semester": "2022-23/I",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 71,
+    "Branch": "CE",
+    "CourseName": "TRANSPORTATION SYSTEMS ANALYSIS(CE382)",
+    "SlotName": "DE-2",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF,OE,Minor/ REGULAR",
+    "Instructor": "Hemant Gehlot(1)",
+    "InstructorEmail": "hemantg@iitk.ac.in (1)",
+    "LectureSchedule": "T (T208) 10:30-11:45, Th (T208) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "This course has a history of a high fail rate.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "E 5-10%"
+        },
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 72,
+    "Branch": "CE",
+    "CourseName": "WATER SUPPLY AND WASTEWATER DISPOSAL SYSTEMS(CE412)",
+    "SlotName": "DE-8",
+    "Units": "3-0-2-0(11)",
+    "CourseType": "DE, PRF, OE,Minor/ REGULAR",
+    "Instructor": "Manoj Tiwari(1)",
+    "InstructorEmail": "mktiwari@iitk.ac.in (1)",
+    "LectureSchedule": "M (L15) W (L15) 15:30-16:45",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "T (WL235) 16:00-18:00",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "A/A* < 20%"
+        },
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "B < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 73,
+    "Branch": "CE",
+    "CourseName": "GEOGRAPHICAL INFORMATION SYSTEM (GIS)(CE432)",
+    "SlotName": "DE-1",
+    "Units": "3-0-2-0(11)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "Salil Goel(I), NAGARAJAN BALASUBRAMANIAN (0)",
+    "InstructorEmail": "sgoel@iitk.ac.in (1), nagaraj@iitk.ac.in (O)",
+    "LectureSchedule": "T (L10) 09:00-10:15, M (L10) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "Th 15:00-17:00",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 74,
+    "Branch": "CE",
+    "CourseName": "CONSTRUCTION MANAGEMENT(CE441M)",
+    "SlotName": "CORE 12",
+    "Units": "3-0-0-0(5)",
+    "CourseType": "DC/SECOND-HALF",
+    "Instructor": "SUDHIR MISRA(1)",
+    "InstructorEmail": "sud@iitk.ac.in (1)",
+    "LectureSchedule": "WThF 16:00-17:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 75,
+    "Branch": "CE",
+    "CourseName": "HYDRAULIC AND HYDROLOGIC DESIGN(CE462A)",
+    "SlotName": "DE-4-1",
+    "Units": "3-1-0-0(11)",
+    "CourseType": "DE, PRF, OE,Minor/ REGULAR",
+    "Instructor": "SAUMYEN GUHA (I), RAJESH SRIVASTAVA (O), SHIVAM TRIPATHI(O)",
+    "InstructorEmail": "sguha@iitk.ac.in (I), rajeshs@iitk.ac.in (O), shiva@iitk.ac.in (0)",
+    "LectureSchedule": "Th (T106) 14:00-15:00",
+    "TutorialSchedule": "M (T106) 08:00-09:00",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 76,
+    "Branch": "CE",
+    "CourseName": "UNDER GRADUATE RESEARCH - II(CE491)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(9)",
+    "CourseType": "UGP-2/REGULAR",
+    "Instructor": "DUGCCE (1)",
+    "InstructorEmail": "dugcce@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Very generous grading.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "A/A* > 80%"
+        },
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "A/A* 40-60%"
+        },
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "B < 20%"
+        },
+        {
+          "Semester": "2022-23/I",
+          "GradeBracket": "A/A* 60-80%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 77,
+    "Branch": "CE",
+    "CourseName": "UNDER GRADUATE RESEARCH - III(CE492)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(9)",
+    "CourseType": "UGP-3/REGULAR",
+    "Instructor": "DUGCCE (1)",
+    "InstructorEmail": "dugcce@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Very generous grading.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "A/A* 60-80%"
+        },
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 78,
+    "Branch": "CE",
+    "CourseName": "UNDER GRADUATE RESEARCH - IV(CE493)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(9)",
+    "CourseType": "UGP-4/REGULAR",
+    "Instructor": "DUGCCE (1)",
+    "InstructorEmail": "dugcce@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 79,
+    "Branch": "CE",
+    "CourseName": "FLUID MECHANICS LABORATORY(CE612)",
+    "SlotName": "PG-1",
+    "Units": "2-0-3-0(9)",
+    "CourseType": "DE, PRF,OE,Minor/ REGULAR",
+    "Instructor": "Gourabananda Pahar(I), RAJESH SRIVASTAVA (O), Subhadip Das(O)",
+    "InstructorEmail": "gpahar@iitk.ac.in (I), rajeshs@iitk.ac.in (O), subhadipd@iitk.ac.in (0)",
+    "LectureSchedule": "W (T110) 10:00-11:00,F (T110) 12:00-13:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "M 14:00-17:00",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 80,
+    "Branch": "CE",
+    "CourseName": "COMPUTER METHODS IN HYDRAULICS AND HYDROLOGY(CE613)",
+    "SlotName": "PG-4",
+    "Units": "2-0-3-0(9)",
+    "CourseType": "DE, PRF, OE,Minor/ REGULAR",
+    "Instructor": "RICHA OJHA (1)",
+    "InstructorEmail": "richao@iitk.ac.in (1)",
+    "LectureSchedule": "T (T109) 09:00-10:15,M (T109) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "W 14:00-17:00",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 81,
+    "Branch": "CE",
+    "CourseName": "STABILITY OF STRUCTURES (CE622)",
+    "SlotName": "PG-13",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF,OE,Minor/ REGULAR",
+    "Instructor": "SUDIB KUMAR MISHRA(1)",
+    "InstructorEmail": "smishra@iitk.ac.in (1)",
+    "LectureSchedule": "T (T105) F (T105) 15:30-16:45",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 82,
+    "Branch": "CE",
+    "CourseName": "EXPERIMENTAL METHODS IN STRUCTURL ENGINEERING(CE623)",
+    "SlotName": "PG-6",
+    "Units": "2-0-3-0(9)",
+    "CourseType": "DE, PRF, OE,Minor/ REGULAR",
+    "Instructor": "DURGESH C RAI (1)",
+    "InstructorEmail": "dcrai@iitk.ac.in (1)",
+    "LectureSchedule": "T (T101) W (T101) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "Th 14:00-17:00",
+    "Grading": {
+      "Analysis": "Very generous grading.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "A/A* > 80%"
+        },
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 83,
+    "Branch": "CE",
+    "CourseName": "EARTHQUAKE ANALYSIS AND DESIGN OF STRUCTURES (CE629)",
+    "SlotName": "PG-11",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "Chinmoy Kolay(1)",
+    "InstructorEmail": "ckolay@iitk.ac.in (1)",
+    "LectureSchedule": "M (T203) W (T203) 15:30-17:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ 20-40%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 84,
+    "Branch": "CE",
+    "CourseName": "FOUNDATION ANALYSIS AND DESIGN(CE632)",
+    "SlotName": "PG-9",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF,OE, Minor/ REGULAR",
+    "Instructor": "NIHAR RANJAN PATRA (1)",
+    "InstructorEmail": "nrpatra@iitk.ac.in (1)",
+    "LectureSchedule": "T (L03) 12:00-13:30, Th (L03) 16:00-17:30",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 85,
+    "Branch": "CE",
+    "CourseName": "GROUND IMPROVEMENT TECHNIQUES(CE634)",
+    "SlotName": "PG-8",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "RAJESH SATHIYAMOORTHY (I)",
+    "InstructorEmail": "hsrajesh@iitk.ac.in (1)",
+    "LectureSchedule": "M (T111) W (T111) 17:15-18:30",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ 20-40%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 86,
+    "Branch": "CE",
+    "CourseName": "FOUNDATION DYNAMICS(CE635)",
+    "SlotName": "DE-1",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF,OE, Minor/ REGULAR",
+    "Instructor": "Bipin Gupta (1)",
+    "InstructorEmail": "bkgupta@iitk.ac.in (1)",
+    "LectureSchedule": "T (T110) 09:00-10:15, M (T110) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "A/A* 20-40%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 87,
+    "Branch": "CE",
+    "CourseName": "ANALYTICAL AND NUMERICAL METHODS IN GEOMECHANICS(CE639)",
+    "SlotName": "PG-5",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "PRIYANKA GHOSH (1)",
+    "InstructorEmail": "priyog@iitk.ac.in (1)",
+    "LectureSchedule": "T (T206) 10:30-11:45, Th (T206) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 88,
+    "Branch": "CE",
+    "CourseName": "LABORATORY COURSE IN INFRASTRUCTURE ENGINEERING AND MANAGEMENT(CE642)",
+    "SlotName": "PG-6",
+    "Units": "1-0-6-0(9)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "Chirag Kothari(1), SUDHIR MISRA(O)",
+    "InstructorEmail": "ckothari@iitk.ac.in (1), sud@iitk.ac.in (0)",
+    "LectureSchedule": "T 14:00-15:30",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "F 10:30-13:30,T 15:30-17:00",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 89,
+    "Branch": "CE",
+    "CourseName": "ADVANCEMENTS IN CONCRETE(CE653M)",
+    "SlotName": "DE-7",
+    "Units": "3-0-0-0(5)",
+    "CourseType": "DE, OE, Minor, MOD/SECOND-HALF",
+    "Instructor": "HARISH K V(I)",
+    "InstructorEmail": "kvharish@iitk.ac.in (1)",
+    "LectureSchedule": "MW 14:00-15:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 90,
+    "Branch": "CE",
+    "CourseName": "CONCRETE SCIENCE AND ENGINEERING PROPERTIES(CE654M)",
+    "SlotName": "DE-7",
+    "Units": "3-0-0-0(5)",
+    "CourseType": "DE, OE, Minor, MOD/FIRST-HALF",
+    "Instructor": "HARISH K V(I)",
+    "InstructorEmail": "kvharish@iitk.ac.in (1)",
+    "LectureSchedule": "M (L02) W (L02) 14:00-15:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 91,
+    "Branch": "CE",
+    "CourseName": "ENVIRONMENTAL FLUID MECHANICS(CE656)",
+    "SlotName": "OE-6",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "Chunendra Sahu(1)",
+    "InstructorEmail": "cksahu@iitk.ac.in (1)",
+    "LectureSchedule": "T (T201) F (T201) 15:30-16:45",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ 20-40%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 92,
+    "Branch": "CE",
+    "CourseName": "CONSTRUCTION ECONOMICS & INFRASTRUCTURE FINANCING(CE657)",
+    "SlotName": "DE-2",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF,OE, Minor/ REGULAR",
+    "Instructor": "Chirag Kothari(1)",
+    "InstructorEmail": "ckothari@iitk.ac.in (1)",
+    "LectureSchedule": "T (L01) 10:30-11:45, Th (L01) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ 40-60%"
+        },
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "B 20-40%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 93,
+    "Branch": "CE",
+    "CourseName": "HUMANS, ENVIRONMENT AND SUSTAINABLE DEVELOPMENT(CE663)",
+    "SlotName": "OE-1",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "Abhishek (1)",
+    "InstructorEmail": "abhishekc@iitk.ac.in (1)",
+    "LectureSchedule": "M (T204) W (T204) 09:00-10:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ 20-40%"
+        },
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "B < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 94,
+    "Branch": "CE",
+    "CourseName": "ENVIRONMENTAL QUALITY & POLLUTION MONITORING TECHNIQUES(CE668)",
+    "SlotName": "PG-3",
+    "Units": "2-0-4-0(10)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "PURNENDU BOSE (I), Abhijith G R(O)",
+    "InstructorEmail": "pbose@iitk.ac.in (1), abhijith@iitk.ac.in (O)",
+    "LectureSchedule": "W (T112) F (T112) 11:00-12:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "Th 14:00-18:00",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "A/A* 20-40%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 95,
+    "Branch": "CE",
+    "CourseName": "ATMOSPHERIC PHYSICS AND CHEMISTRY(CE669)",
+    "SlotName": "DE-2",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF/ REGULAR",
+    "Instructor": "ANUBHA GOEL (I), MUKESH SHARMA (0)",
+    "InstructorEmail": "anubha@iitk.ac.in (I), mukesh@iitk.ac.in (0)",
+    "LectureSchedule": "T (L12) 10:30-11:45, Th (L12) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 96,
+    "Branch": "CE",
+    "CourseName": "MACHINE PROCESSING OF REMOTELY SENSED DATA(CE672)",
+    "SlotName": "DE-2",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF, OE,Minor/ REGULAR",
+    "Instructor": "ONKAR DIKSHIT (1)",
+    "InstructorEmail": "onkar@iitk.ac.in (1)",
+    "LectureSchedule": "T (L08) 10:30-11:45, Th (L08) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 97,
+    "Branch": "CE",
+    "CourseName": "INSTRUMENTATION LABORATORY AND FIELD PRACTICES IN GEOINFORMATICS(CE673)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-9-0(9)",
+    "CourseType": "DE, PRF,OE,Minor/ REGULAR",
+    "Instructor": "Balaji Devaraju(1)",
+    "InstructorEmail": "dbalaji@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ 20-40%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 98,
+    "Branch": "CE",
+    "CourseName": "GLOBAL NAVIGATION SATELLITE SYSTEMS(GNSS) (CE674M)",
+    "SlotName": "PG-3",
+    "Units": "3-0-2-0(6)",
+    "CourseType": "PRF/FIRST-HALF",
+    "Instructor": "NAGARAJAN BALASUBRAMANIAN (1)",
+    "InstructorEmail": "nagaraj@iitk.ac.in (1)",
+    "LectureSchedule": "W (T109) Th (T109) F (T109) 11:00-12:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "M 15:00-17:00",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 99,
+    "Branch": "CE",
+    "CourseName": "GLOBAL NAVIGATION SATELLITE SYSTEMS (GNSS) FOR SURVEYING & MAPING(CE675M)",
+    "SlotName": "PG-3",
+    "Units": "3-0-2-0(6)",
+    "CourseType": "PRF/SECOND-HALF",
+    "Instructor": "NAGARAJAN BALASUBRAMANIAN (1)",
+    "InstructorEmail": "nagaraj@iitk.ac.in (1)",
+    "LectureSchedule": "WThF 11:00-12:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "M 15:00-17:00",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 100,
+    "Branch": "CE",
+    "CourseName": "LASER SCANNING AND PHOTOGRAMMETRY(CE676)",
+    "SlotName": "PG-7",
+    "Units": "2-0-3-0(9)",
+    "CourseType": "DE, PRF,OE,Minor/ REGULAR",
+    "Instructor": "BHARAT LOHANI (1)",
+    "InstructorEmail": "blohani@iitk.ac.in (1)",
+    "LectureSchedule": "M (T205) W (T205) 09:00-10:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "F 14:00-17:00",
+    "Grading": {
+      "Analysis": "Generous grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "A/A* 40-60%"
+        },
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "B < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 101,
+    "Branch": "CE",
+    "CourseName": "INTRODUCTION TO INERTIAL AND MULTI-SENSOR NAVIGATION(CE677M)",
+    "SlotName": "PG-3",
+    "Units": "3-0-2-0(6)",
+    "CourseType": "PRF/SECOND-HALF",
+    "Instructor": "Salil Goel(1)",
+    "InstructorEmail": "sgoel@iitk.ac.in (1)",
+    "LectureSchedule": "WThF 11:00-12:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "M 15:00-17:00",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 102,
+    "Branch": "CE",
+    "CourseName": "URBAN TRANSPORTATION (CE685M)",
+    "SlotName": "PG-3",
+    "Units": "3-0-0-0(5)",
+    "CourseType": "PRF/SECOND-HALF",
+    "Instructor": "PARTHA CHAKROBORTY (1)",
+    "InstructorEmail": "partha@iitk.ac.in (1)",
+    "LectureSchedule": "WThF 11:00-12:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 103,
+    "Branch": "CE",
+    "CourseName": "STATISTICAL AND ECONOMETRIC METHODS FOR TRANSPORTATION ENGINEERING(CE687)",
+    "SlotName": "DE-1",
+    "Units": "3-0-2-0(11)",
+    "CourseType": "DE, PRF, OE,Minor/ REGULAR",
+    "Instructor": "Aditya Medury(1)",
+    "InstructorEmail": "amedury@iitk.ac.in (1)",
+    "LectureSchedule": "T (T205) 09:00-10:15, M (T205) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "Th 14:00-16:00",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ 20-40%"
+        },
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "B < 20%"
+        },
+        {
+          "Semester": "2022-23/I",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 104,
+    "Branch": "CE",
+    "CourseName": "M.TECH SEMINAR 2(CE698)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(0)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "DPGCCE (1)",
+    "InstructorEmail": "dpgcce@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 105,
+    "Branch": "CE",
+    "CourseName": "M. TECH THESIS(CE699)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(0)",
+    "CourseType": "PRF, Thesis / REGULAR",
+    "Instructor": "DUGCCE (I), DPGCCE (0)",
+    "InstructorEmail": "dugcce@iitk.ac.in (I), dpgcce@iitk.ac.in (0)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 106,
+    "Branch": "CE",
+    "CourseName": "ANALYSIS OF TRANSPORTATION SYSTEMS(CE704)",
+    "SlotName": "DE-2",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "Hemant Gehlot(1)",
+    "InstructorEmail": "hemantg@iitk.ac.in (1)",
+    "LectureSchedule": "T (T208) 10:30-11:45, Th (T208) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 107,
+    "Branch": "CE",
+    "CourseName": "WATER RESOURCES SYSTEMS ANALYSIS(CE718)",
+    "SlotName": "DE-5",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF,OE, Minor/ REGULAR",
+    "Instructor": "Tushar Apurv(1)",
+    "InstructorEmail": "tusharap@iitk.ac.in (1)",
+    "LectureSchedule": "T (L18) F (L18) 14:00-15:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Generous grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "A/A* 40-60%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 108,
+    "Branch": "CE",
+    "CourseName": "THEORY OF PLATES AND SHELLS(CE727)",
+    "SlotName": "DE-1",
+    "Units": "3-0-0-0(9)",
+    "CourseType": "DE, PRF/ REGULAR",
+    "Instructor": "Amar Nath Chowdhury(1)",
+    "InstructorEmail": "amarrc@iitk.ac.in (1)",
+    "LectureSchedule": "T (T107) 09:00-10:15,M (T107) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 109,
+    "Branch": "CE",
+    "CourseName": "SURFACE WATER QUALITY MODELING(CE760M)",
+    "SlotName": "PG-4",
+    "Units": "3-0-0-0(5)",
+    "CourseType": "DE, PRF,OE, Minor/FIRST-HALF",
+    "Instructor": "ABHAS SINGH(1)",
+    "InstructorEmail": "abhas@iitk.ac.in (1)",
+    "LectureSchedule": "T (T210) 09:00-10:15, M (T210) 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 110,
+    "Branch": "CE",
+    "CourseName": "SUBSURFACE CONTAMINANT FATE AND TRANSPORT(CE761M)",
+    "SlotName": "PG-4",
+    "Units": "3-0-0-0(5)",
+    "CourseType": "DE, PRF, OE,Minor/ SECOND-HALF",
+    "Instructor": "ABHAS SINGH(1)",
+    "InstructorEmail": "abhas@iitk.ac.in (1)",
+    "LectureSchedule": "Th 09:00-10:00, 09:00-10:15 M 12:00-13:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 111,
+    "Branch": "CE",
+    "CourseName": "ENVIRONMENT TOXICOLOGY AND RISK ASSESSMENT (CE764M)",
+    "SlotName": "PG-12",
+    "Units": "3-0-0-0(5)",
+    "CourseType": "DE, PRF, OE, Minor / FIRST-HALF",
+    "Instructor": "TARUN GUPTA (1)",
+    "InstructorEmail": "tarun@iitk.ac.in (1)",
+    "LectureSchedule": "T (T109) F (T109) 14:00-15:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 112,
+    "Branch": "CE",
+    "CourseName": "INDUSTRIAL WASTE MANAGEMENT(CE765M)",
+    "SlotName": "PG-9",
+    "Units": "3-0-0-0(5)",
+    "CourseType": "DE, PRF,OE,Minor/ SECOND-HALF",
+    "Instructor": "MUKESH SHARMA (1)",
+    "InstructorEmail": "mukesh@iitk.ac.in (1)",
+    "LectureSchedule": "F 17:15-18:15, 17:15-18:30",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 113,
+    "Branch": "CE",
+    "CourseName": "TOWARDS SUSTAINABLE MANAGEMENT OF PLASTIC POLLUTION(CE768M)",
+    "SlotName": "PG-10",
+    "Units": "3-0-0-0(5)",
+    "CourseType": "DE, PRF,OE,Minor/ SECOND-HALF",
+    "Instructor": "ANUBHA GOEL (1)",
+    "InstructorEmail": "anubha@iitk.ac.in (1)",
+    "LectureSchedule": "MW 14:00-15:15",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 114,
+    "Branch": "CE",
+    "CourseName": "ADJUSTMENT COMPUTATIONS FOR GEOINFORMATICS-II(CE771)",
+    "SlotName": "PG-13",
+    "Units": "2-0-1-0(6)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "ONKAR DIKSHIT (1)",
+    "InstructorEmail": "onkar@iitk.ac.in (1)",
+    "LectureSchedule": "T (T106) F (T106) 15:30-16:45",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "Th 17:00-18:30",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B+ 20-40%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 115,
+    "Branch": "CE",
+    "CourseName": "LABORATORY COURSE IN TRANSPORTATION ENGINEERING(CE780)",
+    "SlotName": "PG-4",
+    "Units": "1-0-6-0(9)",
+    "CourseType": "PRF/REGULAR",
+    "Instructor": "Prabin Ashish(1), PARTHA CHAKROBORTY (0)",
+    "InstructorEmail": "pkashish@iitk.ac.in (1), partha@iitk.ac.in (0)",
+    "LectureSchedule": "Th (T112) 09:00-10:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "TF 14:00-18:00",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "B 20-40%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 116,
+    "Branch": "CE",
+    "CourseName": "TRAFFIC SIMULATION (CE781M)",
+    "SlotName": "DE-8",
+    "Units": "3-0-2-0(6)",
+    "CourseType": "DE, PRF,OE,Minor / FIRST-HALF",
+    "Instructor": "Venkatesan Kanagaraj(1)",
+    "InstructorEmail": "venkatk@iitk.ac.in (1)",
+    "LectureSchedule": "M (T106) W (T106) 15:30-16:45",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "Th 16:00-18:00",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 117,
+    "Branch": "CE",
+    "CourseName": "ANALYSIS OF CONCRETE PAVEMENTS(CE783M)",
+    "SlotName": "DE-8",
+    "Units": "3-0-0-0(5)",
+    "CourseType": "DE, PRF, OE, Minor/ SECOND-HALF",
+    "Instructor": "ANIMESH DAS (1)",
+    "InstructorEmail": "adas@iitk.ac.in (1)",
+    "LectureSchedule": "MW 15:30-16:45",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 118,
+    "Branch": "CE",
+    "CourseName": "MACHINE LEARNING AND DATA ANALYTICS FOR CIVIL ENGINEERING APPLICATIONS(CE784)",
+    "SlotName": "PG-8",
+    "Units": "3-0-0-2(11)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "Pranamesh Chakraborty (1)",
+    "InstructorEmail": "pranames@iitk.ac.in (1)",
+    "LectureSchedule": "M (L14) W (L14) 17:15-18:30",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 119,
+    "Branch": "CE",
+    "CourseName": "PAVEMENT MATERIALS(CE785M)",
+    "SlotName": "PG-3",
+    "Units": "3-0-0-0(5)",
+    "CourseType": "PRF, MOD/FIRST-HALF",
+    "Instructor": "SYAM NAIR(I)",
+    "InstructorEmail": "syamnair@iitk.ac.in (1)",
+    "LectureSchedule": "W (T205) Th (T205) F (T205) 11:00-12:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No historical grading data found.",
+      "History": []
+    }
+  },
+  {
+    "SN": 120,
+    "Branch": "CE",
+    "CourseName": "SCIENTIFIC DATA ANALYSIS PRESENTATION AND INTERPRETATION(CE794)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(5)",
+    "CourseType": "PRF/REGULAR",
+    "Instructor": "DPGCCE (1)",
+    "InstructorEmail": "dpgcce@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 121,
+    "Branch": "CE",
+    "CourseName": "PHD SEMINAR I(CE797)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(0)",
+    "CourseType": "DE, PRF,OE, Minor/ REGULAR",
+    "Instructor": "ANIMESH DAS (1)",
+    "InstructorEmail": "adas@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 122,
+    "Branch": "CE",
+    "CourseName": "PHD SEMINAR II(CE798)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(0)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "ANIMESH DAS (1)",
+    "InstructorEmail": "adas@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 123,
+    "Branch": "CE",
+    "CourseName": "PHD THESIS(CE799)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(0)",
+    "CourseType": "PRF, Thesis / REGULAR",
+    "Instructor": "DPGCCE (1)",
+    "InstructorEmail": "dpgcce@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 124,
+    "Branch": "CE",
+    "CourseName": "INTRODUCTION TO PROFESSION & COMMUNICATION(CE888)",
+    "SlotName": "PG-11",
+    "Units": "1-0-0-0(3)",
+    "CourseType": "DE, PRF, OE, Minor/ REGULAR",
+    "Instructor": "Chunendra Sahu(1)",
+    "InstructorEmail": "cksahu@iitk.ac.in (1)",
+    "LectureSchedule": "M (T201) 15:30-17:00",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 125,
+    "Branch": "CE",
+    "CourseName": "MS RESEARCH SEMINAR II(CE898)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(0)",
+    "CourseType": "PRF/REGULAR",
+    "Instructor": "DPGCCE (1)",
+    "InstructorEmail": "dpgcce@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 126,
+    "Branch": "CE",
+    "CourseName": "MS - RESEARCH THESIS (CE899)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(0)",
+    "CourseType": "PRF, Thesis/ REGULAR",
+    "Instructor": "DPGCCE (1)",
+    "InstructorEmail": "dpgcce@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "Appears to have average grading.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "A/A* < 20%"
+        }
+      ]
+    }
+  },
+  {
+    "SN": 127,
+    "Branch": "CE",
+    "CourseName": "DIIT PROJECT(CE999)",
+    "SlotName": "SLOT-Blank",
+    "Units": "0-0-0-0(18)",
+    "CourseType": "Thesis / REGULAR",
+    "Instructor": "DPGCCE (1)",
+    "InstructorEmail": "dpgcce@iitk.ac.in (1)",
+    "LectureSchedule": "",
+    "TutorialSchedule": "",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "No specific grading data found in recent annexures.",
+      "History": []
+    }
+  },
+  {
+    "SN": 128,
+    "Branch": "CE",
+    "CourseName": "MECHANICS OF SOLIDS(ESO202)",
+    "SlotName": "CORE 12",
+    "Units": "3-1-0-1(11)",
+    "CourseType": "ESO/SO/ REGULAR",
+    "Instructor": "Gaurav Tiwari(1)",
+    "InstructorEmail": "gauravt@iitk.ac.in (1)",
+    "LectureSchedule": "M (L16) Th (L16) F (L16) 08:00-09:00",
+    "TutorialSchedule": "W (T212) W (T209) W (T210) W (T211) W (T208) W (T207) 08:00-09:00",
+    "PracticalSchedule": "",
+    "Grading": {
+      "Analysis": "This course has a history of a high fail rate.",
+      "History": [
+        {
+          "Semester": "2024-25/I",
+          "GradeBracket": "F 10-15%"
+        },
+        {
+          "Semester": "2023-24/II",
+          "GradeBracket": "F 1-5%"
+        },
+        {
+          "Semester": "2022-23/II",
+          "GradeBracket": "F 1-5%"
+        },
+        {
+          "Semester": "2022-23/I",
+          "GradeBracket": "E 10-15%"
+        }
+      ]
+    }
+  }
+]
