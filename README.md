@@ -1,41 +1,39 @@
-AI Agent: Course Suggester Prototype
+# AI Agent: Course Suggester Prototype
 
-This is a submission for the "AI Agent Prototype" assignment.
+Author: Sanjay Jangir  
+University: IIT Kanpur  
+Department: Civil Engineering  
 
-Name: Sanjay Jangir
+---
 
-University: IIT Kanpur
+### Project Overview
 
-Department: Civil Engineering
+This project is an AI agent designed to help students at IIT Kanpur discover courses in the Civil Engineering (CE) department. Users can ask questions in natural language, and the agent provides relevant course suggestions based on the current semester schedule and historical grading data.
 
-Project Overview
+The agent leverages a Planner–Tool–Executor architecture inspired by modular instruction-following AI design.
 
-This project is an AI agent that helps students at IIT Kanpur find courses in the Civil Engineering (CE) department. Users can ask questions in natural language, and the agent will find courses based on the current schedule and historical grading data.
+---
 
-Architecture
+### Architecture
 
-The agent uses a Planner-Tool-Executor model:
+The system is composed of three key components:
 
-Planner: A fine-tuned microsoft/Phi-3-mini-4k-instruct model that converts the user's prompt into a JSON query.
+- **Planner:**  
+  A fine-tuned microsoft/Phi-3-mini-4k-instruct model that converts user queries into structured JSON search requests.
 
-Tool: A Python function that uses this JSON to search a final_database.json (our RAG knowledge base).
+- **Tool:**  
+  A Python function that processes the Planner’s JSON output to query final_database.json — the Retrieval-Augmented Generation (RAG) knowledge base containing course details and grading records.
 
-Executor: The base Phi-3-mini model, which synthesizes the search results into a helpful, natural-language answer.
+- **Executor:**  
+  The base Phi-3-mini model that synthesizes the Tool’s retrieved data into a coherent, natural-language response for the user.
 
-For a full breakdown, see Architecture_Document.md and Data_Science_Report.md.
+For a detailed explanation of the architecture and methodology, refer to:
+- Architecture_Document.md
+- Data_Science_Report.md
 
-How to Run
+---
 
-Setup:
+### Setup Instructions
 
-pip install -r requirements.txt
+Clone the repository and install dependencies:
 
-
-(You will need transformers, torch, datasets, peft, trl, bitsandbytes, accelerate)
-
-Run the Agent:
-
-run the model.ipynb
-
-
-(This assumes you have combined the final agent code into a single agent.py file)
