@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 Run the Agent:
 
-python agent.py
+run the model.ipynb
 
 
 (This assumes you have combined the final agent code into a single agent.py file)
